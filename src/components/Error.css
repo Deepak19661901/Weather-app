@@ -1,0 +1,46 @@
+
+
+
+
+.errorDesign{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 32vh;
+/* box-shadow: 6px 6px 9px red; */
+  width: fit-content;
+  margin-left:auto ;
+  margin-right: auto;
+}
+.errorPage {
+  text-align: center;
+  padding: 20px;
+  background-color: black; 
+  border: 1px solid white; 
+  border-radius: 5px;
+  max-width: 400px;
+ 
+}
+
+.errorPage h1 {
+  color: orange; 
+}
+
+.errorPage p {
+  color: white;
+  margin-bottom: 3vh;
+ 
+}
+
+button {
+  background-color: royalblue; 
+  color: #fff; 
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: teal; 
+}
